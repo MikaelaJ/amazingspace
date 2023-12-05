@@ -1,3 +1,5 @@
+# amazingspace
+This is a project for creators and artists to showcase their work. It is build with Svelte using SvelteKit, Prisma and Prostgres db. 
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
@@ -36,6 +38,4 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-# amazingspace
-# amazingspace
 # amazingspace
